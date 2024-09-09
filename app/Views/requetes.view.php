@@ -12,7 +12,7 @@
 
     <h2>Structure de la requête HTTP</h2>
     <pre><code>GET /index.html HTTP/1.1</code></pre>
-    <p><strong>Méthode HTTP :</strong> Le type d'opération à effectuer (GET, POST, PUT, DELETE, etc.).</p>
+    <p><strong>Méthode HTTP :</strong> Le type d'opération à effectuer (GET (demande), POST(soumet qqch), PUT, DELETE, etc.).</p>
     <p><strong>URI (Uniform Resource Identifier) :</strong> L'adresse de la ressource demandée.</p>
     <p><strong>Version HTTP :</strong> La version du protocole HTTP utilisée.</p>
 
